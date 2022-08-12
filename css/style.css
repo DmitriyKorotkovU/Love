@@ -40,36 +40,6 @@ body {
 	text-transform: uppercase;
 }
 
-.block {
-	border: 5px solid red;
-	max-width: 800px;
-	margin: 0 auto;
-	height: 800px;
-}
-.block div {
-	line-height: 50px;
-	font-size: 18px;
-	font-weight: 700;
-	text-align: center;
-}
-.block__1 {
-	background: yellow;
-	
-}
-.block__2 {
-	background: purple;
-	position: fixed;
-	width: 100%;
-	left: 0;
-	top: 0;
-	z-index: 10;
-}
-.block__3 {
-	background: rgb(234, 0, 255); 
-	position: relative;
-	z-index: 12;
-}
-
 .header {
 	background: #000;
 	height: 40vh;
